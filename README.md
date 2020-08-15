@@ -1,1 +1,1 @@
-# 462_Final_Project-Phase2-
+# CSC462 Final Project (Phase2)
